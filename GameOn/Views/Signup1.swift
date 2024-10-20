@@ -71,7 +71,7 @@ struct SignUpPage1: View {
                 Spacer()
             }
             .padding(.horizontal, 20)
-            .navigationBarBackButtonHidden(true)
+            .navigationBarBackButtonHidden(false)
         }
     }
 }
